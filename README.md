@@ -1,16 +1,17 @@
-# Prepended Domain Transformer: Heterogeneous Face Recognition without Bells and Whistles
+# EdgeFace: Efficient Face Recognition Model for Edge Devices
 
 This package is part of the signal-processing and machine learning toolbox Bob_. 
 
 This package contains source code to replicate the main experimental results published in the following paper::
 
-    @inproceedings{george2022,
-        author = {Anjith George, Amir Mohammadi and Sebastien Marcel},
-        title = {Prepended Domain Transformer: Heterogeneous Face Recognition without Bells and Whistles},
-        year = {2022},
-        booktitle = {IEEE Transactions on Information Forensics and Security},
+    @article{george2024edgeface,
+      title={EdgeFace: Efficient Face Recognition Model for Edge Devices},
+      author={George, Anjith and Ecabert, Christophe and Shahreza, Hatef Otroshi and Kotwal, Ketan and Marcel, S{\'e}bastien},
+      journal={IEEE Transactions on Biometrics, Behavior, and Identity Science},
+      year={2024},
+      publisher={IEEE}
     }
 
 If you use this package and/or its results, please consider citing the paper.
 
-The source code is hosted in Idiap's gitlab: https://gitlab.idiap.ch/bob/bob.paper.tifs2022_hfr_prepended_domain_transformer
+The source code is hosted in Idiap's gitlab: https://gitlab.idiap.ch/bob/bob.paper.tbiom2023_edgeface
