@@ -2,7 +2,7 @@
 
 This package is part of the signal-processing and machine learning toolbox Bob_. 
 
-This package contains source code to replicate the main experimental results published in the following paper::
+This package contains source code to replicate the main experimental results published in the following paper: https://publications.idiap.ch/attachments/papers/2024/George_IEEETBIOM_2024.pdf:
 
     @article{george2024edgeface,
       title={EdgeFace: Efficient Face Recognition Model for Edge Devices},
